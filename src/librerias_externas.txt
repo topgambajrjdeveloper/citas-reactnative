@@ -1,0 +1,4 @@
+react-native-modal-datetime-picker:
+https://github.com/mmazzarolo/react-native-modal-datetime-picker
+Necesitaras instalar el 'pod en IOS'
+
